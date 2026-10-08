@@ -9,3 +9,10 @@ I am a Computer Science & Cybernetics student focused on building efficient soft
 
 ### 🔗 Connect with me
 - [Email] ciufualex95@gmail.com
+
+  ## Certifications
+
+* [Oracle Academy — Database Design](https://github.com/BossMc3/certifications)
+* [Oracle Academy — Database Programming with SQL](https://github.com/BossMc3/certifications)
+* [Oracle Academy — Database Programming with PL/SQL](https://github.com/BossMc3/certifications)
+
